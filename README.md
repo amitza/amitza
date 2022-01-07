@@ -9,11 +9,21 @@
 
 ### Languages and Tools:
 
-___
+---
 
+<details>
+   <summary>:zap: GitHub Stats</summary>
+ 
+<br />
+  
 <img aline="left" alt="amitza's github stats" src="https://github-readme-stats.vercel.app/api?username=amitza&show_icons=true&hide_border=true&theme=dark" />
 
+<br />
+<br />
+  
 <img aline="left" alt="amitza's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitza&layout=compact&theme=dark" />
+  
+</details>
 
 <!--
 **amitza/amitza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
