@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+## Connect with me:
+
+[<img align="left" alt="amitza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="amitza | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+## Languages and Tools:
+
+___
+
 <img aline="left" alt="amitza's github stats" src="https://github-readme-stats.vercel.app/api?username=amitza&show_icons=true&hide_border=true&theme=dark" />
 
 <img aline="left" alt="amitza's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitza&layout=compact&theme=dark" />
@@ -18,3 +29,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[instagram]: https://instagram.com/amitzafran2607
+[linkedin]: https://linkedin.com/in/amit-zafran-b002a5a5
