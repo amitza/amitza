@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img aline="left" alt="amitza's github stats" src="https://github-readme-stats.vercel.app/api?username=amitza&show_icons=true&hide_border=true" />
+
 <!--
 **amitza/amitza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
