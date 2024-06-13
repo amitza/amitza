@@ -11,19 +11,11 @@
 
 ---
 
-<details>
-   <summary>:zap: GitHub Stats</summary>
- 
-<br />
-  
-<img aline="left" alt="amitza's github stats" src="https://github-readme-stats.vercel.app/api?username=amitza&show_icons=true&hide_border=true&theme=dark" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitza&show_icons=true&locale=en&layout=compact" alt="amitza" /></p>
 
-<br />
-<br />
-  
-<img aline="left" alt="amitza's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitza&layout=compact&theme=dark" />
-  
-</details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitza&show_icons=true&locale=en" alt="amitza" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitza&" alt="amitza" /></p>
 
 <!--
 **amitza/amitza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
