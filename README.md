@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I’m Amit Zafran, a passionate Tech Lead and Software Engineer with 8 years of experience. My journey has led me to specialize in cutting-edge technology, where I thrive on driving business success through innovative solutions.
+I’m Amit, a passionate Tech Lead and Software Engineer with 8 years of experience. My journey has led me to specialize in cutting-edge technology, where I thrive on driving business success through innovative solutions.
 
 ### Connect with me:
 
