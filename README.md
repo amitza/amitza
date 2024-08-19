@@ -4,6 +4,7 @@
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ZafranAmit?style=social)](https://twitter.com/ZafranAmit)
 [![Linkedin: amitzafran](https://img.shields.io/badge/-amitzafran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amit-zafran-b002a5a5/)](https://www.linkedin.com/in/amit-zafran-b002a5a5/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eeht1717@gmail.com)](mailto:aamita00@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/Medium-070301?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@zafran)](https://medium.com/@zafran)
 
 A passionate Tech Lead and Software Engineer with 8 years of experience, currently working at [lavanet](https://github.com/lavanet). My journey has led me to specialize in cutting-edge technology, where I thrive on driving business success through innovative solutions.
 
